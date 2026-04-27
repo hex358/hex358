@@ -23,7 +23,7 @@
 ## About
 
 I build systems where performance comes from understanding structure.  
-My work spans machine learning platforms, backend systems, storage engines, and cryptographic verification — with a focus on turning domain-specific constraints into measurable efficiency gains.
+My work spans machine learning platforms, backend systems, storage engines, and cryptographic verification - with a focus on turning domain-specific constraints into measurable efficiency gains.
 
 ---
 
@@ -122,7 +122,7 @@ Cryptographic system for tamper-evident storage and independent verification.
 
 ## ⚙️ Engineering Principle
 
-> I design systems by understanding their structure first — then turning those constraints into performance advantages.
+> I design systems by understanding their structure first - then turning those constraints into performance advantages.
 
 ---
 
