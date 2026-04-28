@@ -31,7 +31,7 @@ My work spans machine learning platforms, backend systems, storage engines, and 
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="top">
 
 ### Neuralese  
 **Visual AI Platform**
@@ -45,7 +45,7 @@ A full-stack system for learning and building neural networks without code.
 [GitHub](https://github.com/hex358/neuralese-api) • [Demo](https://www.youtube.com/watch?v=218K0ffants)
 
 </td>
-<td width="33%">
+<td width="33%" align="top">
 
 ### HexDB  
 **High-Performance Storage**
@@ -59,7 +59,7 @@ Optimized key-value store for fixed-length data such as hashes, model weights, a
 [GitHub](https://github.com/hex358/certum-tree)
 
 </td>
-<td width="33%">
+<td width="33%" align="top">
 
 ### CertumTree  
 **Zero-Trust Verification**
