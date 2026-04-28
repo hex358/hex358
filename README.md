@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Rust-black?style=flat-square" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hex358&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
 ---
 
 ## About
