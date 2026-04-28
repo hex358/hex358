@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2600&pause=700&center=true&vCenter=true&width=800&lines=ML+%7C+Full-Stack+%7C+Performance+Engineer;Building+AI+systems+with+real-world+impact;Optimizing+software+through+systems+thinking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=600&size=28&duration=2600&pause=700&center=true&vCenter=true&width=800&lines=ML+%7C+Full-Stack+%7C+Performance+Engineer;Building+AI+systems+with+real-world+impact;Optimizing+software+through+systems+thinking" alt="Typing SVG" />
 </p>
 
 <p align="center">
